@@ -1,5 +1,5 @@
-Hi👋, I'm Tai <br>
-From Nam Dinh 
+<p></p>Hi 👋, I'm Tai <br>
+<p></p>From Nam Dinh 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taidvph20044&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
