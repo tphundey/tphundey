@@ -6,9 +6,18 @@
 ✨ A poor student always strives for a better life with big ambitions.<br><br>
 🌱 I always seek for knowledge and luck.<br><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taidvph20044&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+## **Top technologies**
 
-<h2>Top technologies</h2><br>
+[![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-1572b6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572b6)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+
+# TOBECONTINUED
 
 ---
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+## **First Meet Through**
+[![Mail Badge](https://img.shields.io/badge/-DinhVanTai-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:taidvph20044@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@tranphung625-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tranphung625)  [![Faebook Badge](https://img.shields.io/badge/-TranPhung-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](facebook.com/taidvph20044)
