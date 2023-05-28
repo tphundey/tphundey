@@ -1,9 +1,7 @@
 <h2>Who is this person ...</h2>
 
-👋 Hi, I'm Tai but just call me Phung. <br><br>
+👋 Hi, I'm Tai. <br><br>
 💁 I come from Nam Dinh. <br><br>
-💻 Phung is currently working as web developer. <br><br>
-✨ A poor student always strives for a better life with big ambitions.<br><br>
 🌱 I always seek for knowledge and luck.<br><br>
 
 ---
