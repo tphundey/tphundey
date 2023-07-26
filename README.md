@@ -1,26 +1,21 @@
 ### Hi there 👋
 
-  - My name is Tai and I come from Nam Dinh City. <br><br>
-  - I always seek for knowledge and luck.<br><br>
-  - I aim for a future filled with happiness in life. <br><br>
+   My name is Tai and I come from Nam Dinh City. <br><br>
+   I always seek for knowledge and luck.<br><br>
+   I aim for a future filled with happiness in life. <br><br>
 
 ---
 ```javascript
-const ritulSingh = {
+const aboutMe = {
     pronouns: "He" | "Him",
-    code: [Javascript, Typescript, Node.js, Python],
-    askMeAbout: [Python, Tech, Node.js, Backend Developer],
+    code: [Html5 , Css3, Js, React, Redux, Angular],
+    askMeAbout: [Frontend Developer],
     technologies: {
-        mobileApp: [Android Application, Flutter Application],
-        python: [Flask, Django, Numpy]
-        },
-        databases: [MongoDB, MySql, Sqlite],
-        misc: [Firebase, Php]
+        databases: [MongoDB, MySql]
     },
     architecture: ["Multi page applications", "Progressive web applications", "Single page applications"],
     currentProject: "",
-    challenge: "I am doing the #100DaysOfCode challenge focused on python and kotlin",
-    funFact: "I spend almost 6 to 7 hours with my laptop every day"
+    funFact: "I spend almost 9 to 11 hours with my laptop every day"
 };
 ```
 ## **Top technologies**
