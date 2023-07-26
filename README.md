@@ -8,7 +8,7 @@
 ```javascript
 const aboutMe = {
     pronouns: "He" | "Him",
-    code: [Html5 , Css3, Js, React, Redux, Angular],
+    code: [Html5, Css3, Js, React, Redux, Angular],
     askMeAbout: [Frontend Developer],
     technologies: {
         databases: [MongoDB, MySql]
