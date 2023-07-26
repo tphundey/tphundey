@@ -6,9 +6,9 @@
 
 ---
 ```javascript
-const ritulSingh = {
+const aboutMe = {
     pronouns: "He" | "Him",
-    code: [Javascript, Typescript, Node.js, Python],
+    code: [Html5, Css3, JS, Re],
     askMeAbout: [Python, Tech, Node.js, Backend Developer],
     technologies: {
         mobileApp: [Android Application, Flutter Application],
