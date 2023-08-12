@@ -4,13 +4,13 @@
 ```javascript
 const aboutMe = {
     pronouns: "He" | "Him",
-    code: [Html, Css, Js, React, Redux, Angular, Php, Ant Design],
+    code: [Html, Css, Js, React, Redux, Angular, Php, Ant Design, NodeJs],
     askMeAbout: [Frontend Developer],
     technologies: {
-        databases: [MongoDB, NodeJs]
+        databases: [MongoDB, Jira, PostMan, XamPP]
     },
     architecture: ["Multi page applications", "Progressive web applications", "Single page applications"],
-    funFact: "Stole code form the sky"
+    funFact: "her không là của tôi"
 };
 ```
 
