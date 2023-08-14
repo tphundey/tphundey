@@ -10,7 +10,7 @@ const aboutMe = {
         databases: [MongoDB, Jira, PostMan, XamPP]
     },
     architecture: ["Multi page applications", "Progressive web applications", "Single page applications"],
-    funFact: "her không là của tôi"
+    funFact: "her không là của tôi !"
 };
 ```
 
