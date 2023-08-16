@@ -5,7 +5,7 @@
 const aboutMe = {
     pronouns: "He" | "Him",
     code: [Html, Css, Js, React, Redux, Angular, Php, Ant Design, NodeJs],
-    askMeAbout: [Frontend Developer],
+    askMeAbout: [FrontEnd Developer],
     technologies: {
         databases: [MongoDB, Jira, PostMan, XamPP]
     },
