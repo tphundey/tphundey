@@ -10,7 +10,7 @@ const aboutMe = {
         databases: [MongoDB, Strapi],
         technology: [Jira, PostMan, XamPP]
     },
-    architecture: ["Multi page applications", "Progressive web applications", "Single page applications"],
+    architecture: ["Multi page applications", "Single page applications"],
     funFact: "Không phải ai lang thang cũng là đi lạc !"
 };
 ```
