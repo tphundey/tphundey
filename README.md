@@ -3,7 +3,7 @@
 ---
 ```javascript
 const aboutMe = {
-    pronouns: "He" | "Him",
+    pronouns: "He" | "Hims",
     skills: [Html, Css, Js, React, Redux, Angular, NodeJs],
     askMeAbout: [FullStack Developer],
     technologies: {
